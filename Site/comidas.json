@@ -1,0 +1,9 @@
+[
+    { "name": "Cachorro Quente", "price": 10.00, "description": "Saboroso cachorro quente com salsicha e molho especial." },
+    { "name": "Batata Frita", "price": 8.00, "description": "Batatas fritas crocantes com sal." },
+    { "name": "Salada Caesar", "price": 12.00, "description": "Salada fresca com alface, croutons e molho Caesar." },
+    { "name": "Sushi", "price": 30.00, "description": "Delicioso sushi com peixe fresco e arroz temperado." },
+    { "name": "Tacos", "price": 20.00, "description": "Tacos recheados com carne moída e vegetais frescos." },
+    { "name": "Pizza", "price": 25.00, "description": "Deliciosa pizza de queijo com molho de tomate." },
+    { "name": "Hambúrguer", "price": 15.00, "description": "Saboroso hambúrguer com queijo e alface." }
+]
